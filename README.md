@@ -15,14 +15,14 @@ you need into content folder this Assets.
 (folder structure)  
 
 		KiteDemo  
-			|  
-			|- Environments  
-			|  
-			|- Maps  
-			|  
-			|- Material  
-			|  
-			|- Textures  
+		|  
+		|- Environments  
+		|  
+		|- Maps  
+		|  
+		|- Material  
+		|  
+		|- Textures  
 			
 		StarterContent  
 		
